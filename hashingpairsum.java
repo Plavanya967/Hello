@@ -19,7 +19,7 @@ public class hashingpairsum
             map.put(nums[i],i);
         }
        if(r==false){
-           System.out.println(0);
+           System.out.println(0 );
        }
 
     }
